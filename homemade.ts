@@ -919,4 +919,9 @@ export const homemadeBadges: BadgeInfo[] = [
 		fileName: "artsuppliesbronze",
 		authorDiscordId: "1320944066002681876",
 	},
+	{
+		displayName: "testing",
+		fileName: "testing",
+		authorDiscordId: "313762200286396416",
+	},
 ];
